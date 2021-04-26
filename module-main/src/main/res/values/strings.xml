@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">module-main</string>
+
+    <string name="app_home">首页</string>
+    <string name="app_deliver">快递</string>
+    <string name="app_me">我</string>
+</resources>

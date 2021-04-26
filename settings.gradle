@@ -1,0 +1,5 @@
+include ':library-res'
+include ':library-base'
+include ':module-home'
+include ':module-main'
+include ':app'
